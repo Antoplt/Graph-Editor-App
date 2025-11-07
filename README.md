@@ -91,11 +91,11 @@ La bibliothèque **re-resizable** est utilisée pour implémenter les panneaux r
 
 1.  **Clonez le dépôt :**
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/Antoplt/Graph-Editor-App.git
     ```
 2.  **Accédez au répertoire du projet :**
     ```sh
-    cd Graph-Editor
+    cd Graph-Editor-App
     ```
 3.  **Installez les dépendances :**
     ```sh
